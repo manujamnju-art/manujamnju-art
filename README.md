@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Manjunath S. Angadi 👋
 
-<!--
-**manujamnju-art/manujamnju-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Final-Year Student  
+💻 Aspiring Software Developer  
+📍 Hubli, Karnataka, India
 
-Here are some ideas to get you started:
+## About Me
+I'm a final-year BCA student passionate about software development, problem-solving, and building practical applications. I'm continuously improving my technical skills through projects, hands-on learning, and collaborative development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+- **Programming:** Python, Java, C
+- **Web Technologies:** HTML, CSS, JavaScript, React
+- **Database:** MySQL, MongoDB
+- **Tools:** Git, GitHub, VS Code
+- **Core Concepts:** DBMS, OOP, Data Structures, Software Engineering
+
+## Featured Projects
+
+- 🌍 Global Currency, Cryptocurrency & Economic Trend Tracker
+- 🏦 Bank Management System
+- 📚 Library Management System
+- 📊 Sales Data Analyzer
+- 💰 Expense Tracker
+
+## Currently Learning
+- Full-Stack Development
+- Data Structures & Algorithms
+- Backend Development
+- Cloud & Deployment
+
+## Connect With Me
+- GitHub: https://github.com/manujamnju-art
+- Email: manujamnju@gmail.com
